@@ -1,0 +1,2 @@
+# AutoExcelTranslator
+Excelファイルの中身を一括で日本語から英語、英語から日本語に変換できるソフトです、
